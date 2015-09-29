@@ -1,5 +1,5 @@
 {
-    "name": "madkom/php-xbase",
+    "name": "hisamu/php-xbase",
     "version": "1.0.0",
     "type": "library",
     "description": "A simple parser for *.dbf files using PHP",
